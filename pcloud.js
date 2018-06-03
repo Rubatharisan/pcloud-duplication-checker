@@ -1,3 +1,5 @@
+const needle = require('needle');
+
 class pCloud {
 	constructor(){
 		// Authentication

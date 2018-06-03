@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Rubatharisan/pcloud-duplication-checker/issues"
   },
-  "homepage": "https://github.com/Rubatharisan/pcloud-duplication-checker#readme"
+  "homepage": "https://github.com/Rubatharisan/pcloud-duplication-checker#readme",
+  "dependencies": {
+    "needle": "^2.2.1"
+  }
 }
